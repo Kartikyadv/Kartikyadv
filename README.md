@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m Kartik Yadav  
+👀 I’m interested in Computer and new Technologies  
+🌱 I’m currently learning Data Structures and Algorithms using C++  
+📫 How to reach me ky5986390@gmail.com or https://www.linkedin.com/in/kartik-yadav-2a21a5250/  
